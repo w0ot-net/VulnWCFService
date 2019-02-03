@@ -19,3 +19,10 @@ C:\Users\funBox\Desktop\illumant\infiltrate\VulnWCFService-Remote\VulnWCFService
 C:\Users\funBox\Desktop\illumant\infiltrate\VulnWCFService-Remote\VulnWCFService\obj\Debug\VulnWCFService.csproj.CoreCompileInputs.cache
 C:\Users\funBox\Desktop\illumant\infiltrate\VulnWCFService-Remote\VulnWCFService\obj\Debug\VulnWCFService.exe
 C:\Users\funBox\Desktop\illumant\infiltrate\VulnWCFService-Remote\VulnWCFService\obj\Debug\VulnWCFService.pdb
+C:\Users\funBox\Desktop\illumant\conference talks\VulnWCFService-Remote\VulnWCFService\bin\Debug\VulnWCFService.exe.config
+C:\Users\funBox\Desktop\illumant\conference talks\VulnWCFService-Remote\VulnWCFService\bin\Debug\VulnWCFService.exe
+C:\Users\funBox\Desktop\illumant\conference talks\VulnWCFService-Remote\VulnWCFService\bin\Debug\VulnWCFService.pdb
+C:\Users\funBox\Desktop\illumant\conference talks\VulnWCFService-Remote\VulnWCFService\obj\Debug\VulnWCFService.csprojResolveAssemblyReference.cache
+C:\Users\funBox\Desktop\illumant\conference talks\VulnWCFService-Remote\VulnWCFService\obj\Debug\VulnWCFService.csproj.CoreCompileInputs.cache
+C:\Users\funBox\Desktop\illumant\conference talks\VulnWCFService-Remote\VulnWCFService\obj\Debug\VulnWCFService.exe
+C:\Users\funBox\Desktop\illumant\conference talks\VulnWCFService-Remote\VulnWCFService\obj\Debug\VulnWCFService.pdb

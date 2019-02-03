@@ -17,10 +17,13 @@ namespace VulnServiceClient {
     public class VulnServiceClient : IVulnService {
 
 
-        public static void Main() {
+        public static void Main(string[] args) {
+            string host;
+            if (args.Length == 0) host = "localhost";
+            else host = args[0];
             ChannelFactory<IVulnService> channelFactory = new ChannelFactory<IVulnService>(
-            new NetTcpBinding(),
-            "net.tcp://localhost:81/VulnService/RunMe");
+            new NetTcpBinding(SecurityMode.None),
+            string.Format("net.tcp://{0}:81/VulnService/RunMe", host));
             IVulnService client = channelFactory.CreateChannel();
             client.RunMe("calc.exe");
         }

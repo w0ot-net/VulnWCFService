@@ -12,3 +12,10 @@ C:\Users\funBox\Desktop\illumant\infiltrate\VulnServiceClient-Remote\VulnService
 C:\Users\funBox\Desktop\illumant\infiltrate\VulnServiceClient-Remote\VulnServiceClient\obj\Debug\VulnServiceClient.csproj.CoreCompileInputs.cache
 C:\Users\funBox\Desktop\illumant\infiltrate\VulnServiceClient-Remote\VulnServiceClient\obj\Debug\VulnServiceClient.exe
 C:\Users\funBox\Desktop\illumant\infiltrate\VulnServiceClient-Remote\VulnServiceClient\obj\Debug\VulnServiceClient.pdb
+C:\Users\funBox\Desktop\illumant\conference talks\VulnServiceClient-Remote\VulnServiceClient\bin\Debug\VulnServiceClient.exe.config
+C:\Users\funBox\Desktop\illumant\conference talks\VulnServiceClient-Remote\VulnServiceClient\bin\Debug\VulnServiceClient.exe
+C:\Users\funBox\Desktop\illumant\conference talks\VulnServiceClient-Remote\VulnServiceClient\bin\Debug\VulnServiceClient.pdb
+C:\Users\funBox\Desktop\illumant\conference talks\VulnServiceClient-Remote\VulnServiceClient\obj\Debug\VulnServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\funBox\Desktop\illumant\conference talks\VulnServiceClient-Remote\VulnServiceClient\obj\Debug\VulnServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\funBox\Desktop\illumant\conference talks\VulnServiceClient-Remote\VulnServiceClient\obj\Debug\VulnServiceClient.exe
+C:\Users\funBox\Desktop\illumant\conference talks\VulnServiceClient-Remote\VulnServiceClient\obj\Debug\VulnServiceClient.pdb

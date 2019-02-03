@@ -45,6 +45,8 @@ namespace VulnWCFService
             Uri baseAddress = new Uri("net.tcp://localhost:81/vulnservice/runme");
             serviceHost = new ServiceHost(typeof(VulnService), baseAddress);
             NetTcpBinding binding = new NetTcpBinding();
+            binding.Security.Mode = SecurityMode.None;
+            binding.Security.Transport.ClientCredentialType = TcpClientCredentialType.None;
 
             try
             {
