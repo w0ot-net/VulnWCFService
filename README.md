@@ -1,2 +1,2 @@
 # VulnWCFService-Remote
-Example Vulnerable WCF Service
+Example Vulnerable WCF Service and Client
